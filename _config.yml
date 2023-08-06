@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Zhu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Zhu_headshot.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
