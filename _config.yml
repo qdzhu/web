@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Zhu"
   avatar : "/assets/images/Zhu_headshot.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am currently a NOAA Global & Climate Change postdoc fellow, working with Prof. Arlene Fiore at MIT."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
